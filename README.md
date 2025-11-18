@@ -29,17 +29,7 @@ The goal is to find **natural wine segments** (by chemistry, not rating) using a
 
 ## Key Visuals (from the notebook)
 
-### Wine Feature Distributions / EDA  
-![EDA1](img_1.png)
 
-### PCA Projection with Cluster Labels  
-![PCA_Clusters](img_2.png)
-
-### Silhouette Score / Elbow Diagnostics  
-![Silhouette_Elbow](img_3.png)
-
-### Dendrogram (Hierarchical Clustering)  
-![Dendrogram](img_4.png)
 
 ## Tech Stack
 - **Python**: pandas, numpy  
