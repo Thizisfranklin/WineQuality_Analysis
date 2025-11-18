@@ -27,7 +27,7 @@ The goal is to find **natural wine segments** (by chemistry, not rating) using a
 5. **Evaluation & Visualization** – use silhouette scores, PCA scatterplots, and dendrograms to assess cluster quality.  
 6. **Cluster Profiling** – summarize each cluster’s average chemistry (e.g., acidity, alcohol, residual sugar) and relate it to potential quality tiers or pricing bands.
 
-## Key Visuals (from the notebook)
+## Key Visuals: these are in the notebook
 
 
 
